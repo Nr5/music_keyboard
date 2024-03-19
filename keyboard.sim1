@@ -1,0 +1,567 @@
+<circuit version="1.0.0-SR0" rev="1320" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="0" >
+
+<item itemtype="Diode" CircId="Diode-1" mainComp="false" Show_id="false" Show_Val="false" Pos="-396,604" rotation="0" hflip="1" vflip="1" label="Diode-1" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-2" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,556" rotation="0" hflip="1" vflip="1" label="Diode-2" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-3" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,604" rotation="0" hflip="1" vflip="1" label="Push-3" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="u" />
+
+<item itemtype="Push" CircId="Push-4" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,452" rotation="0" hflip="1" vflip="1" label="Push-4" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="r" />
+
+<item itemtype="Push" CircId="Push-6" mainComp="false" Show_id="false" Show_Val="false" Pos="-256,696" rotation="0" hflip="1" vflip="1" label="Push-6" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="l" />
+
+<item itemtype="Push" CircId="Push-7" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,652" rotation="0" hflip="1" vflip="1" label="Push-7" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="i" />
+
+<item itemtype="Push" CircId="Push-9" mainComp="false" Show_id="false" Show_Val="false" Pos="-256,496" rotation="0" hflip="1" vflip="1" label="Push-9" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="g" />
+
+<item itemtype="Diode" CircId="Diode-10" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,604" rotation="0" hflip="1" vflip="1" label="Diode-10" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-13" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,604" rotation="0" hflip="1" vflip="1" label="Diode-13" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-14" mainComp="false" Show_id="false" Show_Val="false" Pos="-348,696" rotation="0" hflip="1" vflip="1" label="Push-14" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="q" />
+
+<item itemtype="Diode" CircId="Diode-15" mainComp="false" Show_id="false" Show_Val="false" Pos="-396,652" rotation="0" hflip="1" vflip="1" label="Diode-15" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-16" mainComp="false" Show_id="false" Show_Val="false" Pos="-492,356" rotation="0" hflip="1" vflip="1" label="Diode-16" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-18" mainComp="false" Show_id="false" Show_Val="false" Pos="-444,496" rotation="0" hflip="1" vflip="1" label="Push-18" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="." />
+
+<item itemtype="Push" CircId="Push-20" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,496" rotation="0" hflip="1" vflip="1" label="Push-20" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="t" />
+
+<item itemtype="Diode" CircId="Diode-21" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,452" rotation="0" hflip="1" vflip="1" label="Diode-21" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-22" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,404" rotation="0" hflip="1" vflip="1" label="Push-22" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="e" />
+
+<item itemtype="Push" CircId="Push-26" mainComp="false" Show_id="false" Show_Val="false" Pos="-348,496" rotation="0" hflip="1" vflip="1" label="Push-26" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="\" />
+
+<item itemtype="Push" CircId="Push-27" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,356" rotation="0" hflip="1" vflip="1" label="Push-27" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="w" />
+
+<item itemtype="Diode" CircId="Diode-29" mainComp="false" Show_id="false" Show_Val="false" Pos="-396,404" rotation="0" hflip="1" vflip="1" label="Diode-29" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-30" mainComp="false" Show_id="false" Show_Val="false" Pos="-348,556" rotation="0" hflip="1" vflip="1" label="Push-30" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="b" />
+
+<item itemtype="Diode" CircId="Diode-31" mainComp="false" Show_id="false" Show_Val="false" Pos="-492,696" rotation="0" hflip="1" vflip="1" label="Diode-31" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-33" mainComp="false" Show_id="false" Show_Val="false" Pos="-444,404" rotation="0" hflip="1" vflip="1" label="Push-33" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="p" />
+
+<item itemtype="Push" CircId="Push-36" mainComp="false" Show_id="false" Show_Val="false" Pos="-256,404" rotation="0" hflip="1" vflip="1" label="Push-36" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="d" />
+
+<item itemtype="Push" CircId="Push-37" mainComp="false" Show_id="false" Show_Val="false" Pos="-256,356" rotation="0" hflip="1" vflip="1" label="Push-37" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="s" />
+
+<item itemtype="Diode" CircId="Diode-38" mainComp="false" Show_id="false" Show_Val="false" Pos="-492,496" rotation="0" hflip="1" vflip="1" label="Diode-38" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-39" mainComp="false" Show_id="false" Show_Val="false" Pos="-444,452" rotation="0" hflip="1" vflip="1" label="Push-39" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key=" " />
+
+<item itemtype="Push" CircId="Push-41" mainComp="false" Show_id="false" Show_Val="false" Pos="-256,652" rotation="0" hflip="1" vflip="1" label="Push-41" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="k" />
+
+<item itemtype="Diode" CircId="Diode-42" mainComp="false" Show_id="false" Show_Val="false" Pos="-492,404" rotation="0" hflip="1" vflip="1" label="Diode-42" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-43" mainComp="false" Show_id="false" Show_Val="false" Pos="-396,556" rotation="0" hflip="1" vflip="1" label="Diode-43" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-44" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,452" rotation="0" hflip="1" vflip="1" label="Diode-44" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-46" mainComp="false" Show_id="false" Show_Val="false" Pos="-348,652" rotation="0" hflip="1" vflip="1" label="Push-46" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="m" />
+
+<item itemtype="Push" CircId="Push-47" mainComp="false" Show_id="false" Show_Val="false" Pos="-444,356" rotation="0" hflip="1" vflip="1" label="Push-47" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="y" />
+
+<item itemtype="Diode" CircId="Diode-48" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,652" rotation="0" hflip="1" vflip="1" label="Diode-48" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-50" mainComp="false" Show_id="false" Show_Val="false" Pos="-396,452" rotation="0" hflip="1" vflip="1" label="Diode-50" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-51" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,696" rotation="0" hflip="1" vflip="1" label="Diode-51" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-53" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,356" rotation="0" hflip="1" vflip="1" label="Diode-53" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-55" mainComp="false" Show_id="false" Show_Val="false" Pos="-444,556" rotation="0" hflip="1" vflip="1" label="Push-55" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="ü" />
+
+<item itemtype="Diode" CircId="Diode-56" mainComp="false" Show_id="false" Show_Val="false" Pos="-492,556" rotation="0" hflip="1" vflip="1" label="Diode-56" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-60" mainComp="false" Show_id="false" Show_Val="false" Pos="-348,356" rotation="0" hflip="1" vflip="1" label="Push-60" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="a" />
+
+<item itemtype="Push" CircId="Push-61" mainComp="false" Show_id="false" Show_Val="false" Pos="-256,452" rotation="0" hflip="1" vflip="1" label="Push-61" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="f" />
+
+<item itemtype="Diode" CircId="Diode-62" mainComp="false" Show_id="false" Show_Val="false" Pos="-396,696" rotation="0" hflip="1" vflip="1" label="Diode-62" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-64" mainComp="false" Show_id="false" Show_Val="false" Pos="-396,356" rotation="0" hflip="1" vflip="1" label="Diode-64" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-65" mainComp="false" Show_id="false" Show_Val="false" Pos="-492,604" rotation="0" hflip="1" vflip="1" label="Diode-65" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-66" mainComp="false" Show_id="false" Show_Val="false" Pos="-256,604" rotation="0" hflip="1" vflip="1" label="Push-66" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="j" />
+
+<item itemtype="Push" CircId="Push-71" mainComp="false" Show_id="false" Show_Val="false" Pos="-348,604" rotation="0" hflip="1" vflip="1" label="Push-71" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="n" />
+
+<item itemtype="Diode" CircId="Diode-73" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,556" rotation="0" hflip="1" vflip="1" label="Diode-73" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-74" mainComp="false" Show_id="false" Show_Val="false" Pos="-348,452" rotation="0" hflip="1" vflip="1" label="Push-74" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="'" />
+
+<item itemtype="Diode" CircId="Diode-76" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,496" rotation="0" hflip="1" vflip="1" label="Diode-76" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="MCU" CircId="mega328-81" mainComp="false" Show_id="true" Show_Val="false" Pos="-32,392" rotation="-90" hflip="1" vflip="1" label="mega328-81" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Frequency="32 MHz" Program="main_m328.hex" Auto_Load="true" Rst_enabled="false" Ext_Osc="false" Wdt_enabled="false" />
+
+<item itemtype="Push" CircId="Push-82" mainComp="false" Show_id="false" Show_Val="false" Pos="-256,556" rotation="0" hflip="1" vflip="1" label="Push-82" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="h" />
+
+<item itemtype="Diode" CircId="Diode-83" mainComp="false" Show_id="false" Show_Val="false" Pos="-492,652" rotation="0" hflip="1" vflip="1" label="Diode-83" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-85" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,556" rotation="0" hflip="1" vflip="1" label="Push-85" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="z" />
+
+<item itemtype="Diode" CircId="Diode-86" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,496" rotation="0" hflip="1" vflip="1" label="Diode-86" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-89" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,404" rotation="0" hflip="1" vflip="1" label="Diode-89" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-91" mainComp="false" Show_id="false" Show_Val="false" Pos="-444,696" rotation="0" hflip="1" vflip="1" label="Push-91" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="-" />
+
+<item itemtype="Diode" CircId="Diode-92" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,404" rotation="0" hflip="1" vflip="1" label="Diode-92" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-98" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,696" rotation="0" hflip="1" vflip="1" label="Push-98" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="o" />
+
+<item itemtype="Push" CircId="Push-99" mainComp="false" Show_id="false" Show_Val="false" Pos="-348,404" rotation="0" hflip="1" vflip="1" label="Push-99" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key=";" />
+
+<item itemtype="Diode" CircId="Diode-102" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,652" rotation="0" hflip="1" vflip="1" label="Diode-102" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-105" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,356" rotation="0" hflip="1" vflip="1" label="Diode-105" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-106" mainComp="false" Show_id="false" Show_Val="false" Pos="-492,452" rotation="0" hflip="1" vflip="1" label="Diode-106" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Push" CircId="Push-108" mainComp="false" Show_id="false" Show_Val="false" Pos="-444,604" rotation="0" hflip="1" vflip="1" label="Push-108" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="+" />
+
+<item itemtype="Push" CircId="Push-111" mainComp="false" Show_id="false" Show_Val="false" Pos="-444,652" rotation="0" hflip="1" vflip="1" label="Push-111" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Pol(e)" Key="&#x3C" />
+
+<item itemtype="Diode" CircId="Diode-115" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,696" rotation="0" hflip="1" vflip="1" label="Diode-115" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Diode" CircId="Diode-116" mainComp="false" Show_id="false" Show_Val="false" Pos="-396,496" rotation="0" hflip="1" vflip="1" label="Diode-116" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Ground" CircId="Ground-271" mainComp="false" Show_id="false" Show_Val="false" Pos="156,516" rotation="0" hflip="1" vflip="1" label="Ground-271" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="AudioOut" CircId="AudioOut-272" mainComp="false" Show_id="false" Show_Val="false" Pos="172,468" rotation="0" hflip="1" vflip="1" label="AudioOut-272" idLabPos="-20,-36" labelrot="0" valLabPos="-16,20" valLabRot="0" Buzzer="false" Impedance="8 Ω" />
+
+<item itemtype="DAC" CircId="DAC-274" mainComp="false" Show_id="false" Show_Val="false" Pos="140,356" rotation="0" hflip="1" vflip="1" label="DAC-274" idLabPos="-16,-80" labelrot="0" valLabPos="-16,20" valLabRot="0" Num_Bits="8 _Bits" Vref="5 V" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+09 Ω" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+
+<item itemtype="Oscope" CircId="Oscope-434" mainComp="false" Show_id="false" Show_Val="false" Pos="300,460" rotation="0" hflip="1" vflip="1" label="Oscope-434" idLabPos="-90,-100" labelrot="0" valLabPos="-16,20" valLabRot="0" Basic_X="135 _Pixels" Basic_Y="135 _Pixels" BufferSize="600000 Samples" TimDiv="5000000000" TimPos="0,0,0,0," VolDiv="1,1,1,1," Tunnels=",,,," Trigger="4" Filter="0.1 V" Trigger="4" AutoSC="4" Tracks="1" HideCh="false,false,false,false," VolPos="0,0,0,0," />
+
+<item itemtype="Node" CircId="Node-5" mainComp="false" Pos="-144,604" />
+
+<item itemtype="Node" CircId="Node-8" mainComp="false" Pos="-412,384" />
+
+<item itemtype="Node" CircId="Node-11" mainComp="false" Pos="-428,496" />
+
+<item itemtype="Node" CircId="Node-12" mainComp="false" Pos="-332,404" />
+
+<item itemtype="Node" CircId="Node-17" mainComp="false" Pos="-228,536" />
+
+<item itemtype="Node" CircId="Node-19" mainComp="false" Pos="-144,696" />
+
+<item itemtype="Node" CircId="Node-23" mainComp="false" Pos="-412,680" />
+
+<item itemtype="Node" CircId="Node-24" mainComp="false" Pos="-240,452" />
+
+<item itemtype="Node" CircId="Node-25" mainComp="false" Pos="-224,588" />
+
+<item itemtype="Node" CircId="Node-28" mainComp="false" Pos="-332,692" />
+
+<item itemtype="Node" CircId="Node-32" mainComp="false" Pos="-412,424" />
+
+<item itemtype="Node" CircId="Node-34" mainComp="false" Pos="-412,584" />
+
+<item itemtype="Node" CircId="Node-35" mainComp="false" Pos="-428,556" />
+
+<item itemtype="Node" CircId="Node-40" mainComp="false" Pos="-240,696" />
+
+<item itemtype="Node" CircId="Node-45" mainComp="false" Pos="-316,536" />
+
+<item itemtype="Node" CircId="Node-49" mainComp="false" Pos="-224,424" />
+
+<item itemtype="Node" CircId="Node-52" mainComp="false" Pos="-240,404" />
+
+<item itemtype="Node" CircId="Node-54" mainComp="false" Pos="-332,648" />
+
+<item itemtype="Node" CircId="Node-57" mainComp="false" Pos="-320,384" />
+
+<item itemtype="Node" CircId="Node-58" mainComp="false" Pos="-144,496" />
+
+<item itemtype="Node" CircId="Node-59" mainComp="false" Pos="-240,556" />
+
+<item itemtype="Node" CircId="Node-63" mainComp="false" Pos="-224,632" />
+
+<item itemtype="Node" CircId="Node-67" mainComp="false" Pos="-144,452" />
+
+<item itemtype="Node" CircId="Node-68" mainComp="false" Pos="-320,632" />
+
+<item itemtype="Node" CircId="Node-69" mainComp="false" Pos="-144,652" />
+
+<item itemtype="Node" CircId="Node-70" mainComp="false" Pos="-428,400" />
+
+<item itemtype="Node" CircId="Node-72" mainComp="false" Pos="-240,492" />
+
+<item itemtype="Node" CircId="Node-75" mainComp="false" Pos="-320,472" />
+
+<item itemtype="Node" CircId="Node-77" mainComp="false" Pos="-224,472" />
+
+<item itemtype="Node" CircId="Node-78" mainComp="false" Pos="-240,604" />
+
+<item itemtype="Node" CircId="Node-79" mainComp="false" Pos="-428,692" />
+
+<item itemtype="Node" CircId="Node-80" mainComp="false" Pos="-428,604" />
+
+<item itemtype="Node" CircId="Node-84" mainComp="false" Pos="-412,632" />
+
+<item itemtype="Node" CircId="Node-87" mainComp="false" Pos="-332,496" />
+
+<item itemtype="Node" CircId="Node-88" mainComp="false" Pos="-224,324" />
+
+<item itemtype="Node" CircId="Node-90" mainComp="false" Pos="-144,404" />
+
+<item itemtype="Node" CircId="Node-93" mainComp="false" Pos="-224,680" />
+
+<item itemtype="Node" CircId="Node-94" mainComp="false" Pos="-412,472" />
+
+<item itemtype="Node" CircId="Node-95" mainComp="false" Pos="-320,680" />
+
+<item itemtype="Node" CircId="Node-96" mainComp="false" Pos="-320,324" />
+
+<item itemtype="Node" CircId="Node-97" mainComp="false" Pos="-240,648" />
+
+<item itemtype="Node" CircId="Node-100" mainComp="false" Pos="-320,588" />
+
+<item itemtype="Node" CircId="Node-101" mainComp="false" Pos="-224,384" />
+
+<item itemtype="Node" CircId="Node-103" mainComp="false" Pos="-332,556" />
+
+<item itemtype="Node" CircId="Node-104" mainComp="false" Pos="-408,324" />
+
+<item itemtype="Node" CircId="Node-107" mainComp="false" Pos="-428,652" />
+
+<item itemtype="Node" CircId="Node-109" mainComp="false" Pos="-320,424" />
+
+<item itemtype="Node" CircId="Node-110" mainComp="false" Pos="-144,560" />
+
+<item itemtype="Node" CircId="Node-112" mainComp="false" Pos="-428,452" />
+
+<item itemtype="Node" CircId="Node-113" mainComp="false" Pos="-412,536" />
+
+<item itemtype="Node" CircId="Node-114" mainComp="false" Pos="-332,604" />
+
+<item itemtype="Node" CircId="Node-117" mainComp="false" Pos="-332,452" />
+
+<item itemtype="Node" CircId="Node-436" mainComp="false" Pos="184,416" />
+
+<item itemtype="Connector" uid="connector-275" startpinid="Node-8-2" endpinid="Diode-42-lPin" pointList="-412,384,-508,384,-508,404" />
+
+<item itemtype="Connector" uid="connector-276" startpinid="mega328-81-PORTD0" endpinid="Node-88-0" pointList="-16,400,-16,408,-80,408,-80,324,-224,324" />
+
+<item itemtype="Connector" uid="connector-277" startpinid="Node-23-1" endpinid="Diode-31-lPin" pointList="-412,680,-508,680,-508,696" />
+
+<item itemtype="Connector" uid="connector-278" startpinid="mega328-81-PORTC2" endpinid="Node-28-1" pointList="0,352,0,304,-108,304,-108,744,-332,744,-332,692" />
+
+<item itemtype="Connector" uid="connector-279" startpinid="Push-4-pinP0" endpinid="Diode-44-rPin" pointList="-176,452,-192,452" />
+
+<item itemtype="Connector" uid="connector-280" startpinid="Push-46-pinP0" endpinid="Diode-15-rPin" pointList="-364,652,-380,652" />
+
+<item itemtype="Connector" uid="connector-281" startpinid="Node-23-2" endpinid="Diode-62-lPin" pointList="-412,680,-412,696" />
+
+<item itemtype="Connector" uid="connector-282" startpinid="Node-87-1" endpinid="Node-103-0" pointList="-332,496,-332,556" />
+
+<item itemtype="Connector" uid="connector-283" startpinid="Node-69-2" endpinid="Push-7-switch0pinN" pointList="-144,652,-144,652" />
+
+<item itemtype="Connector" uid="connector-284" startpinid="Node-54-1" endpinid="Node-28-0" pointList="-332,648,-332,692" />
+
+<item itemtype="Connector" uid="connector-285" startpinid="Diode-116-lPin" endpinid="Node-94-1" pointList="-412,496,-412,472" />
+
+<item itemtype="Connector" uid="connector-286" startpinid="Node-67-2" endpinid="Node-58-1" pointList="-144,452,-144,496" />
+
+<item itemtype="Connector" uid="connector-287" startpinid="Node-25-1" endpinid="Diode-10-lPin" pointList="-224,588,-220,588,-220,604,-224,604" />
+
+<item itemtype="Connector" uid="connector-288" startpinid="Node-59-2" endpinid="Push-82-switch0pinN" pointList="-240,556,-240,556" />
+
+<item itemtype="Connector" uid="connector-289" startpinid="Push-85-switch0pinN" endpinid="Node-110-0" pointList="-144,556,-144,560" />
+
+<item itemtype="Connector" uid="connector-290" startpinid="Node-95-2" endpinid="Diode-51-lPin" pointList="-320,680,-320,696" />
+
+<item itemtype="Connector" uid="connector-291" startpinid="Node-8-1" endpinid="Diode-29-lPin" pointList="-412,384,-412,404" />
+
+<item itemtype="Connector" uid="connector-292" startpinid="Diode-50-lPin" endpinid="Node-32-1" pointList="-412,452,-412,424" />
+
+<item itemtype="Connector" uid="connector-293" startpinid="mega328-81-PORTD4" endpinid="Node-17-0" pointList="16,400,16,536,-228,536" />
+
+<item itemtype="Connector" uid="connector-294" startpinid="Push-60-pinP0" endpinid="Diode-64-rPin" pointList="-364,356,-380,356" />
+
+<item itemtype="Connector" uid="connector-295" startpinid="Node-52-1" endpinid="Node-24-0" pointList="-240,404,-240,452" />
+
+<item itemtype="Connector" uid="connector-296" startpinid="Node-101-1" endpinid="Diode-89-lPin" pointList="-224,384,-224,404" />
+
+<item itemtype="Connector" uid="connector-297" startpinid="Node-68-1" endpinid="Node-84-0" pointList="-320,632,-412,632" />
+
+<item itemtype="Connector" uid="connector-298" startpinid="Node-78-2" endpinid="Push-66-switch0pinN" pointList="-240,604,-240,604" />
+
+<item itemtype="Connector" uid="connector-299" startpinid="Node-75-2" endpinid="Node-94-0" pointList="-320,472,-412,472" />
+
+<item itemtype="Connector" uid="connector-300" startpinid="Node-35-1" endpinid="Node-80-0" pointList="-428,556,-428,604" />
+
+<item itemtype="Connector" uid="connector-301" startpinid="mega328-81-PORTC0" endpinid="Node-19-0" pointList="16,352,16,288,-124,288,-124,696,-144,696" />
+
+<item itemtype="Connector" uid="connector-302" startpinid="mega328-81-PORTD6" endpinid="Node-63-0" pointList="64,400,64,632,-224,632" />
+
+<item itemtype="Connector" uid="connector-303" startpinid="Node-34-2" endpinid="Diode-65-lPin" pointList="-412,584,-508,584,-508,604" />
+
+<item itemtype="Connector" uid="connector-304" startpinid="Node-93-2" endpinid="Diode-115-lPin" pointList="-224,680,-224,696" />
+
+<item itemtype="Connector" uid="connector-305" startpinid="Node-59-1" endpinid="Node-78-0" pointList="-240,556,-240,604" />
+
+<item itemtype="Connector" uid="connector-306" startpinid="Node-94-2" endpinid="Diode-38-lPin" pointList="-412,472,-508,472,-508,496" />
+
+<item itemtype="Connector" uid="connector-307" startpinid="Push-14-pinP0" endpinid="Diode-62-rPin" pointList="-364,696,-380,696" />
+
+<item itemtype="Connector" uid="connector-308" startpinid="Node-45-1" endpinid="Diode-2-lPin" pointList="-316,536,-316,556,-320,556" />
+
+<item itemtype="Connector" uid="connector-309" startpinid="Push-3-pinP0" endpinid="Diode-10-rPin" pointList="-176,604,-192,604" />
+
+<item itemtype="Connector" uid="connector-310" startpinid="mega328-81-PORTD1" endpinid="Node-101-0" pointList="-8,400,-8,416,-88,416,-88,384,-224,384" />
+
+<item itemtype="Connector" uid="connector-311" startpinid="Node-93-1" endpinid="Node-95-0" pointList="-224,680,-320,680" />
+
+<item itemtype="Connector" uid="connector-312" startpinid="Diode-53-lPin" endpinid="Node-96-1" pointList="-320,356,-320,324" />
+
+<item itemtype="Connector" uid="connector-313" startpinid="Node-77-2" endpinid="Diode-76-lPin" pointList="-224,472,-224,496" />
+
+<item itemtype="Connector" uid="connector-314" startpinid="Node-114-1" endpinid="Node-54-0" pointList="-332,604,-332,648" />
+
+<item itemtype="Connector" uid="connector-315" startpinid="mega328-81-PORTC1" endpinid="Node-40-1" pointList="8,352,8,296,-116,296,-116,736,-240,736,-240,696" />
+
+<item itemtype="Connector" uid="connector-316" startpinid="Node-117-2" endpinid="Push-74-switch0pinN" pointList="-332,452,-332,452" />
+
+<item itemtype="Connector" uid="connector-317" startpinid="mega328-81-PORTC3" endpinid="Node-79-1" pointList="-8,352,-8,312,-100,312,-100,752,-428,752,-428,692" />
+
+<item itemtype="Connector" uid="connector-318" startpinid="Push-18-pinP0" endpinid="Diode-38-rPin" pointList="-460,496,-476,496" />
+
+<item itemtype="Connector" uid="connector-319" startpinid="Push-37-switch0pinN" endpinid="Node-52-0" pointList="-240,356,-240,404" />
+
+<item itemtype="Connector" uid="connector-320" startpinid="Node-28-2" endpinid="Push-14-switch0pinN" pointList="-332,692,-332,696" />
+
+<item itemtype="Connector" uid="connector-321" startpinid="Push-82-pinP0" endpinid="Diode-2-rPin" pointList="-272,556,-288,556" />
+
+<item itemtype="Connector" uid="connector-322" startpinid="Push-26-pinP0" endpinid="Diode-116-rPin" pointList="-364,496,-380,496" />
+
+<item itemtype="Connector" uid="connector-323" startpinid="Push-33-pinP0" endpinid="Diode-42-rPin" pointList="-460,404,-476,404" />
+
+<item itemtype="Connector" uid="connector-324" startpinid="Push-98-pinP0" endpinid="Diode-115-rPin" pointList="-176,696,-192,696" />
+
+<item itemtype="Connector" uid="connector-325" startpinid="Node-104-2" endpinid="Diode-16-lPin" pointList="-408,324,-508,324,-508,356" />
+
+<item itemtype="Connector" uid="connector-326" startpinid="mega328-81-PORTD5" endpinid="Node-25-0" pointList="56,400,56,588,-224,588" />
+
+<item itemtype="Connector" uid="connector-327" startpinid="Node-70-1" endpinid="Node-112-0" pointList="-428,400,-428,452" />
+
+<item itemtype="Connector" uid="connector-328" startpinid="Node-107-2" endpinid="Push-111-switch0pinN" pointList="-428,652,-428,652" />
+
+<item itemtype="Connector" uid="connector-329" startpinid="Node-68-2" endpinid="Diode-48-lPin" pointList="-320,632,-320,652" />
+
+<item itemtype="Connector" uid="connector-330" startpinid="Node-11-2" endpinid="Push-18-switch0pinN" pointList="-428,496,-428,496" />
+
+<item itemtype="Connector" uid="connector-331" startpinid="Push-9-pinP0" endpinid="Diode-86-rPin" pointList="-272,496,-288,496" />
+
+<item itemtype="Connector" uid="connector-332" startpinid="Node-24-2" endpinid="Push-61-switch0pinN" pointList="-240,452,-240,452" />
+
+<item itemtype="Connector" uid="connector-333" startpinid="Push-74-pinP0" endpinid="Diode-50-rPin" pointList="-364,452,-380,452" />
+
+<item itemtype="Connector" uid="connector-334" startpinid="Node-90-2" endpinid="Node-67-1" pointList="-144,404,-144,452" />
+
+<item itemtype="Connector" uid="connector-335" startpinid="Node-100-2" endpinid="Node-34-0" pointList="-320,588,-412,588,-412,584" />
+
+<item itemtype="Connector" uid="connector-336" startpinid="mega328-81-PORTD2" endpinid="Node-49-0" pointList="0,400,0,424,-224,424" />
+
+<item itemtype="Connector" uid="connector-337" startpinid="Node-80-2" endpinid="Push-108-switch0pinN" pointList="-428,604,-428,604" />
+
+<item itemtype="Connector" uid="connector-338" startpinid="Push-47-pinP0" endpinid="Diode-16-rPin" pointList="-460,356,-476,356" />
+
+<item itemtype="Connector" uid="connector-339" startpinid="Push-66-pinP0" endpinid="Diode-13-rPin" pointList="-272,604,-288,604" />
+
+<item itemtype="Connector" uid="connector-340" startpinid="Push-91-pinP0" endpinid="Diode-31-rPin" pointList="-460,696,-476,696" />
+
+<item itemtype="Connector" uid="connector-341" startpinid="Node-114-2" endpinid="Push-71-switch0pinN" pointList="-332,604,-332,604" />
+
+<item itemtype="Connector" uid="connector-342" startpinid="Diode-86-lPin" endpinid="Node-75-1" pointList="-320,496,-320,472" />
+
+<item itemtype="Connector" uid="connector-343" startpinid="Node-54-2" endpinid="Push-46-switch0pinN" pointList="-332,648,-332,652" />
+
+<item itemtype="Connector" uid="connector-344" startpinid="Node-17-2" endpinid="Node-45-0" pointList="-228,536,-316,536" />
+
+<item itemtype="Connector" uid="connector-345" startpinid="Push-22-pinP0" endpinid="Diode-89-rPin" pointList="-176,404,-192,404" />
+
+<item itemtype="Connector" uid="connector-346" startpinid="Push-20-pinP0" endpinid="Diode-76-rPin" pointList="-176,496,-192,496" />
+
+<item itemtype="Connector" uid="connector-347" startpinid="Diode-105-lPin" endpinid="Node-88-1" pointList="-224,356,-224,324" />
+
+<item itemtype="Connector" uid="connector-348" startpinid="Push-71-pinP0" endpinid="Diode-1-rPin" pointList="-364,604,-380,604" />
+
+<item itemtype="Connector" uid="connector-349" startpinid="Node-72-1" endpinid="Node-59-0" pointList="-240,492,-240,556" />
+
+<item itemtype="Connector" uid="connector-350" startpinid="Push-55-pinP0" endpinid="Diode-56-rPin" pointList="-460,556,-476,556" />
+
+<item itemtype="Connector" uid="connector-351" startpinid="Node-19-1" endpinid="Node-69-0" pointList="-144,696,-144,652" />
+
+<item itemtype="Connector" uid="connector-352" startpinid="Node-34-1" endpinid="Diode-1-lPin" pointList="-412,584,-412,604" />
+
+<item itemtype="Connector" uid="connector-353" startpinid="Push-37-pinP0" endpinid="Diode-53-rPin" pointList="-272,356,-288,356" />
+
+<item itemtype="Connector" uid="connector-354" startpinid="Node-110-2" endpinid="Node-5-1" pointList="-144,560,-144,604" />
+
+<item itemtype="Connector" uid="connector-355" startpinid="Node-45-2" endpinid="Node-113-0" pointList="-316,536,-412,536" />
+
+<item itemtype="Connector" uid="connector-356" startpinid="Node-97-2" endpinid="Push-41-switch0pinN" pointList="-240,648,-240,652" />
+
+<item itemtype="Connector" uid="connector-357" startpinid="Node-11-1" endpinid="Node-35-0" pointList="-428,496,-428,556" />
+
+<item itemtype="Connector" uid="connector-358" startpinid="Node-69-1" endpinid="Node-5-0" pointList="-144,652,-144,604" />
+
+<item itemtype="Connector" uid="connector-359" startpinid="Node-104-1" endpinid="Diode-64-lPin" pointList="-408,324,-408,356,-412,356" />
+
+<item itemtype="Connector" uid="connector-360" startpinid="Diode-21-lPin" endpinid="Node-109-1" pointList="-320,452,-320,424" />
+
+<item itemtype="Connector" uid="connector-361" startpinid="Node-87-2" endpinid="Push-26-switch0pinN" pointList="-332,496,-332,496" />
+
+<item itemtype="Connector" uid="connector-362" startpinid="Node-112-1" endpinid="Node-11-0" pointList="-428,452,-428,496" />
+
+<item itemtype="Connector" uid="connector-363" startpinid="Node-84-2" endpinid="Diode-15-lPin" pointList="-412,632,-412,652" />
+
+<item itemtype="Connector" uid="connector-364" startpinid="Node-57-2" endpinid="Node-8-0" pointList="-320,384,-412,384" />
+
+<item itemtype="Connector" uid="connector-365" startpinid="Node-12-2" endpinid="Push-99-switch0pinN" pointList="-332,404,-332,404" />
+
+<item itemtype="Connector" uid="connector-366" startpinid="Node-32-2" endpinid="Diode-106-lPin" pointList="-412,424,-508,424,-508,452" />
+
+<item itemtype="Connector" uid="connector-367" startpinid="Push-61-pinP0" endpinid="Diode-21-rPin" pointList="-272,452,-288,452" />
+
+<item itemtype="Connector" uid="connector-368" startpinid="Node-113-2" endpinid="Diode-56-lPin" pointList="-412,536,-508,536,-508,556" />
+
+<item itemtype="Connector" uid="connector-369" startpinid="Node-95-1" endpinid="Node-23-0" pointList="-320,680,-412,680" />
+
+<item itemtype="Connector" uid="connector-370" startpinid="Node-79-2" endpinid="Push-91-switch0pinN" pointList="-428,692,-428,696" />
+
+<item itemtype="Connector" uid="connector-371" startpinid="Node-100-1" endpinid="Diode-13-lPin" pointList="-320,588,-320,604" />
+
+<item itemtype="Connector" uid="connector-372" startpinid="Push-99-pinP0" endpinid="Diode-29-rPin" pointList="-364,404,-380,404" />
+
+<item itemtype="Connector" uid="connector-373" startpinid="mega328-81-PORTD3" endpinid="Node-77-0" pointList="8,400,8,472,-224,472" />
+
+<item itemtype="Connector" uid="connector-374" startpinid="mega328-81-PORTD7" endpinid="Node-93-0" pointList="72,400,72,680,-224,680" />
+
+<item itemtype="Connector" uid="connector-375" startpinid="Node-57-1" endpinid="Diode-92-lPin" pointList="-320,384,-320,404" />
+
+<item itemtype="Connector" uid="connector-376" startpinid="Node-117-1" endpinid="Node-87-0" pointList="-332,452,-332,496" />
+
+<item itemtype="Connector" uid="connector-377" startpinid="Node-103-2" endpinid="Push-30-switch0pinN" pointList="-332,556,-332,556" />
+
+<item itemtype="Connector" uid="connector-378" startpinid="Push-27-switch0pinN" endpinid="Node-90-1" pointList="-144,356,-144,404" />
+
+<item itemtype="Connector" uid="connector-379" startpinid="Node-17-1" endpinid="Diode-73-lPin" pointList="-228,536,-228,556,-224,556" />
+
+<item itemtype="Connector" uid="connector-380" startpinid="Node-35-2" endpinid="Push-55-switch0pinN" pointList="-428,556,-428,556" />
+
+<item itemtype="Connector" uid="connector-381" startpinid="Push-22-switch0pinN" endpinid="Node-90-0" pointList="-144,404,-144,404" />
+
+<item itemtype="Connector" uid="connector-382" startpinid="Push-108-pinP0" endpinid="Diode-65-rPin" pointList="-460,604,-476,604" />
+
+<item itemtype="Connector" uid="connector-383" startpinid="Node-19-2" endpinid="Push-98-switch0pinN" pointList="-144,696,-144,696" />
+
+<item itemtype="Connector" uid="connector-384" startpinid="Push-85-pinP0" endpinid="Diode-73-rPin" pointList="-176,556,-192,556" />
+
+<item itemtype="Connector" uid="connector-385" startpinid="Push-47-switch0pinN" endpinid="Node-70-0" pointList="-428,356,-428,400" />
+
+<item itemtype="Connector" uid="connector-386" startpinid="Node-78-1" endpinid="Node-97-0" pointList="-240,604,-240,648" />
+
+<item itemtype="Connector" uid="connector-387" startpinid="Push-39-pinP0" endpinid="Diode-106-rPin" pointList="-460,452,-476,452" />
+
+<item itemtype="Connector" uid="connector-388" startpinid="Push-60-switch0pinN" endpinid="Node-12-0" pointList="-332,356,-332,404" />
+
+<item itemtype="Connector" uid="connector-389" startpinid="Push-20-switch0pinN" endpinid="Node-58-0" pointList="-144,496,-144,496" />
+
+<item itemtype="Connector" uid="connector-390" startpinid="Node-113-1" endpinid="Diode-43-lPin" pointList="-412,536,-412,556" />
+
+<item itemtype="Connector" uid="connector-391" startpinid="Node-107-1" endpinid="Node-79-0" pointList="-428,652,-428,692" />
+
+<item itemtype="Connector" uid="connector-392" startpinid="Node-84-1" endpinid="Diode-83-lPin" pointList="-412,632,-508,632,-508,652" />
+
+<item itemtype="Connector" uid="connector-393" startpinid="Push-41-pinP0" endpinid="Diode-48-rPin" pointList="-272,652,-288,652" />
+
+<item itemtype="Connector" uid="connector-394" startpinid="Push-111-pinP0" endpinid="Diode-83-rPin" pointList="-460,652,-476,652" />
+
+<item itemtype="Connector" uid="connector-395" startpinid="Push-30-pinP0" endpinid="Diode-43-rPin" pointList="-364,556,-380,556" />
+
+<item itemtype="Connector" uid="connector-396" startpinid="Node-12-1" endpinid="Node-117-0" pointList="-332,404,-332,452" />
+
+<item itemtype="Connector" uid="connector-397" startpinid="Node-88-2" endpinid="Node-96-0" pointList="-224,324,-320,324" />
+
+<item itemtype="Connector" uid="connector-398" startpinid="Push-4-switch0pinN" endpinid="Node-67-0" pointList="-144,452,-144,452" />
+
+<item itemtype="Connector" uid="connector-399" startpinid="Push-6-pinP0" endpinid="Diode-51-rPin" pointList="-272,696,-288,696" />
+
+<item itemtype="Connector" uid="connector-400" startpinid="Node-109-2" endpinid="Node-32-0" pointList="-320,424,-412,424" />
+
+<item itemtype="Connector" uid="connector-401" startpinid="Node-103-1" endpinid="Node-114-0" pointList="-332,556,-332,604" />
+
+<item itemtype="Connector" uid="connector-402" startpinid="Node-70-2" endpinid="Push-33-switch0pinN" pointList="-428,400,-428,404" />
+
+<item itemtype="Connector" uid="connector-403" startpinid="Push-36-pinP0" endpinid="Diode-92-rPin" pointList="-272,404,-288,404" />
+
+<item itemtype="Connector" uid="connector-404" startpinid="Node-63-2" endpinid="Diode-102-lPin" pointList="-224,632,-224,652" />
+
+<item itemtype="Connector" uid="connector-405" startpinid="Node-40-2" endpinid="Push-6-switch0pinN" pointList="-240,696,-240,696" />
+
+<item itemtype="Connector" uid="connector-406" startpinid="Node-49-2" endpinid="Diode-44-lPin" pointList="-224,424,-224,452" />
+
+<item itemtype="Connector" uid="connector-407" startpinid="Node-96-2" endpinid="Node-104-0" pointList="-320,324,-408,324" />
+
+<item itemtype="Connector" uid="connector-408" startpinid="Node-58-2" endpinid="Node-110-1" pointList="-144,496,-144,560" />
+
+<item itemtype="Connector" uid="connector-409" startpinid="Push-27-pinP0" endpinid="Diode-105-rPin" pointList="-176,356,-192,356" />
+
+<item itemtype="Connector" uid="connector-410" startpinid="Node-77-1" endpinid="Node-75-0" pointList="-224,472,-320,472" />
+
+<item itemtype="Connector" uid="connector-411" startpinid="Node-5-2" endpinid="Push-3-switch0pinN" pointList="-144,604,-144,604" />
+
+<item itemtype="Connector" uid="connector-412" startpinid="Node-80-1" endpinid="Node-107-0" pointList="-428,604,-428,652" />
+
+<item itemtype="Connector" uid="connector-413" startpinid="Node-25-2" endpinid="Node-100-0" pointList="-224,588,-320,588" />
+
+<item itemtype="Connector" uid="connector-414" startpinid="Node-112-2" endpinid="Push-39-switch0pinN" pointList="-428,452,-428,452" />
+
+<item itemtype="Connector" uid="connector-415" startpinid="Node-97-1" endpinid="Node-40-0" pointList="-240,648,-240,696" />
+
+<item itemtype="Connector" uid="connector-416" startpinid="Node-63-1" endpinid="Node-68-0" pointList="-224,632,-320,632" />
+
+<item itemtype="Connector" uid="connector-417" startpinid="Push-7-pinP0" endpinid="Diode-102-rPin" pointList="-176,652,-192,652" />
+
+<item itemtype="Connector" uid="connector-418" startpinid="Node-52-2" endpinid="Push-36-switch0pinN" pointList="-240,404,-240,404" />
+
+<item itemtype="Connector" uid="connector-419" startpinid="Node-72-2" endpinid="Push-9-switch0pinN" pointList="-240,492,-240,496" />
+
+<item itemtype="Connector" uid="connector-420" startpinid="Node-24-1" endpinid="Node-72-0" pointList="-240,452,-240,492" />
+
+<item itemtype="Connector" uid="connector-421" startpinid="Ground-271-Gnd" endpinid="AudioOut-272-rPin" pointList="156,500,156,468" />
+
+<item itemtype="Connector" uid="connector-422" startpinid="DAC-274-in1" endpinid="mega328-81-PORTB1" pointList="116,340,80,340,80,352" />
+
+<item itemtype="Connector" uid="connector-423" startpinid="DAC-274-in2" endpinid="mega328-81-PORTB2" pointList="116,348,72,348,72,352" />
+
+<item itemtype="Connector" uid="connector-424" startpinid="DAC-274-in3" endpinid="mega328-81-PORTB3" pointList="116,356,116,352,64,352" />
+
+<item itemtype="Connector" uid="connector-425" startpinid="mega328-81-PORTB4" endpinid="DAC-274-in4" pointList="56,352,108,352,108,364,116,364" />
+
+<item itemtype="Connector" uid="connector-426" startpinid="mega328-81-PORTB5" endpinid="DAC-274-in5" pointList="48,352,96,352,96,372,116,372" />
+
+<item itemtype="Connector" uid="connector-427" startpinid="DAC-274-in6" endpinid="mega328-81-PORTB6" pointList="116,380,88,380,88,408,40,408,40,400" />
+
+<item itemtype="Connector" uid="connector-428" startpinid="mega328-81-PORTB0" endpinid="DAC-274-in0" pointList="80,400,104,400,104,332,116,332" />
+
+<item itemtype="Connector" uid="connector-429" startpinid="AudioOut-272-lPin" endpinid="Node-436-0" pointList="156,460,156,416,184,416" />
+
+<item itemtype="Connector" uid="connector-430" startpinid="DAC-274-in7" endpinid="mega328-81-PORTB7" pointList="116,388,116,420,48,420,48,400" />
+
+<item itemtype="Connector" uid="connector-431" startpinid="Node-49-1" endpinid="Node-109-0" pointList="-224,424,-320,424" />
+
+<item itemtype="Connector" uid="connector-432" startpinid="Node-101-2" endpinid="Node-57-0" pointList="-224,384,-320,384" />
+
+<item itemtype="Connector" uid="Connector-435" startpinid="Oscope-434-Pin2" endpinid="Node-436-1" pointList="212,476,196,476,196,416,184,416" />
+
+<item itemtype="Connector" uid="Connector-437" startpinid="Node-436-2" endpinid="DAC-274-out0" pointList="184,416,184,332,164,332" />
+
+</circuit>
